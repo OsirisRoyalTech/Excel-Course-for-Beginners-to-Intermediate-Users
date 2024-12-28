@@ -2,3 +2,20 @@
 
 Excel is a powerful spreadsheet software used for data organization, calculation, analysis, and visualization. 
 It is part of the Microsoft Office suite and widely used in many industries, including finance, business, research, and education.
+________________________________________
+
+1.2 The Excel Interface
+When you first open Excel, you’ll see the following elements:
+  •	Workbook: The entire file that contains one or more worksheets.
+  •	Worksheet: The individual pages within a workbook, containing cells where data is entered.
+  •	Cells: The basic unit for data entry (e.g., A1, B2, etc.).
+  •	Columns: Vertical sections (A, B, C...) where data is entered.
+  •	Rows: Horizontal sections (1, 2, 3...) where data is entered.
+  •	Ribbon: The toolbar at the top with tabs (Home, Insert, Formulas, etc.) containing commands and tools.
+  •	Formula Bar: Located above the worksheet, it shows the content of the selected cell.
+________________________________________
+
+1.3 Basic Excel Terminology
+  •	Cell Reference: The address of a cell, like A1 or C5.
+  •	Range: A group of cells, like A1:B3.
+  •	Sheet: A single worksheet in a workbook.
