@@ -1,0 +1,20 @@
+2.1 Data Entry
+  •	Entering Data: Click on a cell and type the data (text, numbers, dates).
+  •	Editing Data: Click the cell to edit or press F2.
+  •	Copying and Pasting: 
+    o	Use Ctrl+C (Copy), Ctrl+X (Cut), and Ctrl+V (Paste).
+  o	To paste special (e.g., values only), right-click the target cell and choose Paste Special.
+
+2.2 Cell Formatting
+  •	Text Formatting: Bold (Ctrl+B), Italics (Ctrl+I), Underline (Ctrl+U).
+  •	Number Formatting: You can format numbers as currency, percentage, decimal places, etc., from the Home tab under the Number section. 
+    o	Example: Format a number as currency by clicking the currency symbol (e.g., $).
+  •	Alignment: Adjust text alignment (left, right, center) in the Alignment section on the ribbon.
+  •	Text Wrapping: Enable text wrapping to display long text on multiple lines inside a cell.
+
+2.3 Basic Arithmetic
+  •	Addition: =A1 + B1
+  •	Subtraction: =A1 - B1
+  •	Multiplication: =A1 * B1
+  •	Division: =A1 / B1
+  •	Sum: =SUM(A1:A10) (Sums all numbers in the range A1 to A10).
