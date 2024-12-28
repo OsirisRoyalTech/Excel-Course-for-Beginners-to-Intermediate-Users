@@ -1,0 +1,25 @@
+3.1 Introduction to Functions
+Excel provides a wide variety of built-in functions. Functions begin with an equals sign (=) and perform a specific calculation. Here are some common examples:
+  •	SUM: Adds numbers. =SUM(A1:A10)
+  •	AVERAGE: Finds the average of numbers. =AVERAGE(A1:A10)
+  •	MIN: Returns the smallest value. =MIN(A1:A10)
+  •	MAX: Returns the largest value. =MAX(A1:A10)
+  •	COUNT: Counts how many cells contain numbers. =COUNT(A1:A10)
+  •	COUNTA: Counts all non-empty cells. =COUNTA(A1:A10)
+________________________________________
+
+3.2 Logical Functions
+  •	IF: Performs a logical test and returns one value if true, and another if false.
+    Example: =IF(A1>10, "Yes", "No") – If A1 is greater than 10, return "Yes"; otherwise, return "No".
+  •	AND/OR: Used to combine multiple conditions. 
+    o	=AND(A1>5, B1<10) – Returns TRUE if both conditions are true.
+    o	=OR(A1>5, B1<10) – Returns TRUE if any condition is true.
+________________________________________
+
+3.3 Lookup Functions
+  •	VLOOKUP: Looks up a value in the first column of a range and returns a value in the same row from another column.
+    o	Syntax: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+    o	Example: =VLOOKUP(A2, B2:C10, 2, FALSE) – Looks for the value in A2 within the range B2:C10 and returns the corresponding value from column C.
+  •	HLOOKUP: Similar to VLOOKUP but works horizontally.
+  •	INDEX & MATCH: A more flexible alternative to VLOOKUP, where MATCH finds the row/column number, and INDEX retrieves the value.
+    o	Example: =INDEX(B2:B10, MATCH(A2, A2:A10, 0))
