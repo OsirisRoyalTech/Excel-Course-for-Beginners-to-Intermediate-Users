@@ -1,0 +1,13 @@
+4.1 Sorting and Filtering Data
+  •	Sorting: Select a range of cells, go to the Data tab, and use the Sort button. You can sort by one or multiple columns in ascending or descending order.
+  •	Filtering: Use the Filter option in the Data tab. This allows you to filter data by conditions like greater than, less than, equals, etc.
+
+4.2 Using Tables
+Tables provide a structured way to manage data:
+  •	Select a range and click Insert > Table.
+  •	Tables automatically filter and sort data, and they provide structured references (e.g., Table1[Column1]).
+
+4.3 Removing Duplicates
+To remove duplicate rows from a dataset:
+  •	Select your range and go to the Data tab.
+  •	Click Remove Duplicates and choose the columns to check for duplicates.
