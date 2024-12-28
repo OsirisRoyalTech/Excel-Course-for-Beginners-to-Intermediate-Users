@@ -1,0 +1,12 @@
+6.1 Pivot Tables
+Pivot tables allow you to summarize and analyze large datasets. Here's how you can create one:
+  1.	Select your data range.
+  2.	Go to Insert > Pivot Table.
+  3.	In the Pivot Table field list: 
+  o	Drag fields to the Rows, Columns, Values, and Filters sections.
+  o	You can summarize data by summing, averaging, counting, etc.
+
+6.2 Data Analysis Toolpak
+The Analysis ToolPak is an Excel add-in that provides advanced statistical analysis tools:
+  •	To enable it, go to File > Options > Add-ins, and check Analysis ToolPak.
+  •	Common tools include regression analysis, histograms, and ANOVA.
