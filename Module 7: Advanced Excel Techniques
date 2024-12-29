@@ -1,0 +1,8 @@
+7.1 Conditional Formatting
+Conditional formatting allows you to change the appearance of cells based on their values.
+  •	Select the range, go to Home > Conditional Formatting, and choose from options like Highlight Cell Rules, Data Bars, and Color Scales.
+
+7.2 Advanced Functions
+  •	TEXT: Format numbers and dates as text. Example: =TEXT(A1, "mm/dd/yyyy")
+  •	CONCATENATE (or CONCAT): Combine text from multiple cells. Example: =CONCAT(A1, " ", B1)
+  •	LEFT, RIGHT, MID: Extract parts of text. Example: =LEFT(A1, 3) extracts the first 3 characters from cell A1.
