@@ -1,0 +1,6 @@
+Problem: You want to quickly fill a column with dates starting from today.
+
+Solution:
+1.	Type the first date in a cell.
+2.	Hover over the bottom-right corner of the cell (the fill handle).
+3.	Drag down to autofill the sequence.
