@@ -1,0 +1,7 @@
+Problem: You need to create a basic spreadsheet to track a list of employees and their contact information.
+
+Solution:
+1.	Open a new Excel workbook.
+2.	Label the columns with headers like "Name," "Phone Number," "Email," etc.
+3.	Fill in the data beneath each header.
+4.	Use Ctrl + T to convert the range into a table.
