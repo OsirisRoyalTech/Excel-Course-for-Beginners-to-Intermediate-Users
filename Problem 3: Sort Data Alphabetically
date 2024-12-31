@@ -1,0 +1,6 @@
+Problem: You want to sort a list of names alphabetically.
+
+Solution:
+1.	Select the data range (including column headers).
+2.	Go to Data > Sort.
+3.	Choose the column to sort by and select A-Z for ascending order.
