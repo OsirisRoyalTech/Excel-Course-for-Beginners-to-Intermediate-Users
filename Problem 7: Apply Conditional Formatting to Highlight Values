@@ -1,0 +1,6 @@
+Problem: You want to highlight all values greater than $1000 in a sales column.
+
+Solution:
+1.	Select the range of sales values.
+2.	Go to Home > Conditional Formatting > Highlight Cell Rules > Greater Than.
+3.	Enter 1000 and choose a format.
