@@ -1,0 +1,6 @@
+Problem: You need to format a column of numbers as currency.
+
+Solution:
+1.	Select the cells with numbers.
+2.	Right-click and choose Format Cells.
+3.	Select the Currency category and click OK.
