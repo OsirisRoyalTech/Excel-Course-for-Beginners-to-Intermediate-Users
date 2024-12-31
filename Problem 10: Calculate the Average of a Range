@@ -1,0 +1,5 @@
+Problem: You need to calculate the average sales from a dataset.
+
+Solution:
+1.	Select the cell where you want the average.
+2.	Type =AVERAGE(B2:B10) to calculate the average of values from B2 to B10 and press Enter.
