@@ -1,0 +1,5 @@
+Problem: You want to keep the top row visible as you scroll through data.
+
+Solution:
+1.	Select the row directly below the row you want to freeze.
+2.	Go to View > Freeze Panes > Freeze Top Row.
