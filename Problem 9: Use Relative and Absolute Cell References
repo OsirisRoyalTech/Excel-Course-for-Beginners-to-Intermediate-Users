@@ -1,0 +1,4 @@
+Problem: You need to copy a formula that references specific cells (e.g., multiply values by a fixed tax rate).
+
+Solution:
+1.	Use =$A$1 * B2 to make the reference to A1 absolute (fixed), so when you copy the formula, only B2 changes.
