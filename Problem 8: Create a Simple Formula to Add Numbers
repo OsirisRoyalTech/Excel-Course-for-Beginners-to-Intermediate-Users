@@ -1,0 +1,5 @@
+Problem: You need to sum up a range of numbers.
+
+Solution:
+1.	Select the cell where you want the result.
+2.	Type =SUM(A1:A10) to sum the values from A1 to A10 and press Enter.
