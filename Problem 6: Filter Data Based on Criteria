@@ -1,0 +1,6 @@
+Problem: You want to filter a list of sales by a specific product.
+
+Solution:
+1.	Select the data range.
+2.	Go to Data > Filter.
+3.	Click the filter drop-down in the product column and choose the product to filter by.
