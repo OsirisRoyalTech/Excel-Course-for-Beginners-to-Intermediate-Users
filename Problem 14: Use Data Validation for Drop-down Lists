@@ -1,0 +1,6 @@
+Problem: You want to create a drop-down list of available products for a cell.
+
+Solution:
+1.	Select the cell where the drop-down will appear.
+2.	Go to Data > Data Validation > List.
+3.	In the source box, type the list of products separated by commas.
