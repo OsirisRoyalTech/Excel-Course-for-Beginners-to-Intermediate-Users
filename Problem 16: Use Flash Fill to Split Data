@@ -1,0 +1,6 @@
+Problem: You want to split full names into first and last names.
+
+Solution:
+1.	Type the first name in a cell next to the full name.
+2.	Start typing the last name in the adjacent column.
+3.	Press Ctrl + E to automatically fill the rest of the cells.
