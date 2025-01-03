@@ -1,0 +1,6 @@
+Problem: You need to change all instances of "Product A" to "Product X."
+
+Solution:
+1.	Press Ctrl + H to open Find and Replace.
+2.	In the "Find what" box, type "Product A," and in the "Replace with" box, type "Product X."
+3.	Click Replace All.
