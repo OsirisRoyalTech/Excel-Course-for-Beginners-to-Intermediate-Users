@@ -1,0 +1,5 @@
+Problem: You have a large dataset and want to split it into multiple sheets based on a column (e.g., by region).
+
+Solution:
+1.	Use Filter to display data for each region.
+2.	Copy and paste each filtered set into a new sheet.
