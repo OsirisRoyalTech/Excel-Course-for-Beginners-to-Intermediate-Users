@@ -1,0 +1,4 @@
+Problem: You want to display the current date in a cell.
+
+Solution:
+Type =TODAY() in a cell, and it will return the current date.
