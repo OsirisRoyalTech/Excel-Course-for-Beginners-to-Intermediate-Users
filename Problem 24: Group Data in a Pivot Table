@@ -1,0 +1,5 @@
+Problem: You want to group data by month in a Pivot Table.
+
+Solution:
+1.	Right-click on a date field in the Pivot Table.
+2.	Select Group and choose Months to group the data by month.
