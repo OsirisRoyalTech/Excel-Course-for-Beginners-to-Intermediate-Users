@@ -1,0 +1,5 @@
+Problem: You want to sum values only if they meet certain criteria (e.g., only sales from Region 1).
+
+Solution:
+=SUMIF(A1:A10, "Region 1", B1:B10)
+This sums the values in B1:B10 where the corresponding value in A1:A10 is "Region 1."
