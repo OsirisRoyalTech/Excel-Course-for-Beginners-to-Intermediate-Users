@@ -1,0 +1,5 @@
+Problem: You want to combine first and last names into one cell.
+
+Solution:
+=CONCATENATE(A2, " ", B2)
+This combines the first name in A2 and the last name in B2.
