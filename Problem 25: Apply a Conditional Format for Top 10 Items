@@ -1,0 +1,6 @@
+Problem: You want to highlight the top 10 sales amounts.
+
+Solution:
+1.	Select the sales data.
+2.	Go to Home > Conditional Formatting > Top/Bottom Rules > Top 10 Items.
+3.	Choose a format and click OK.
