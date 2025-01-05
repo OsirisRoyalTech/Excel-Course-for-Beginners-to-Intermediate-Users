@@ -1,0 +1,6 @@
+Problem: You want to split data in one column into multiple columns based on a delimiter (e.g., splitting names into first and last names).
+
+Solution:
+1.	Select the column with the data.
+2.	Go to Data > Text to Columns.
+3.	Choose Delimited and specify the delimiter (e.g., space).
