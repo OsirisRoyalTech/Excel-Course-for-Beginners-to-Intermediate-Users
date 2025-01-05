@@ -1,0 +1,4 @@
+Problem: You need to round a number to two decimal places.
+
+Solution:
+Use the formula =ROUND(A2, 2) to round the value in A2 to two decimal places.
